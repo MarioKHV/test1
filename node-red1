@@ -1,0 +1,58 @@
+[
+    {
+        "id": "ae0f847ecce5ba5f",
+        "type": "ui_svg_graphics",
+        "z": "fdc7b634a1e02043",
+        "group": "3082a134954f2f21",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "svgString": "<svg width=\"297mm\" height=\"210mm\" viewBox=\"0 0 297 210\" version=\"1.1\" id=\"svg5\"\n    inkscape:version=\"1.2.2 (732a01da63, 2022-12-09)\" sodipodi:docname=\"circle.svg\"\n    xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n    xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\" xmlns=\"http://www.w3.org/2000/svg\"\n    xmlns:svg=\"http://www.w3.org/2000/svg\">\n    <sodipodi:namedview id=\"namedview7\" pagecolor=\"#ffffff\" bordercolor=\"#000000\" borderopacity=\"0.25\"\n        inkscape:showpageshadow=\"2\" inkscape:pageopacity=\"0.0\" inkscape:pagecheckerboard=\"0\"\n        inkscape:deskcolor=\"#d1d1d1\" inkscape:document-units=\"mm\" showgrid=\"false\" inkscape:zoom=\"0.75722503\"\n        inkscape:cx=\"154.51153\" inkscape:cy=\"218.56119\" inkscape:window-width=\"1920\" inkscape:window-height=\"1033\"\n        inkscape:window-x=\"-4\" inkscape:window-y=\"-4\" inkscape:window-maximized=\"1\" inkscape:current-layer=\"layer1\" />\n    <defs id=\"defs2\" />\n    <g inkscape:label=\"Слой 1\" inkscape:groupmode=\"layer\" id=\"layer1\">\n        <ellipse\n            style=\"fill:#f22424;stroke:#050001;stroke-width:1.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none\"\n            id=\"path234\" cx=\"26.73\" cy=\"23.061176\" rx=\"18.693529\" ry=\"18.868237\" />\n    </g>\n</svg>",
+        "clickableShapes": [],
+        "javascriptHandlers": [],
+        "smilAnimations": [],
+        "bindings": [],
+        "showCoordinates": false,
+        "autoFormatAfterEdit": false,
+        "showBrowserErrors": false,
+        "showBrowserEvents": false,
+        "enableJsDebugging": false,
+        "sendMsgWhenLoaded": false,
+        "noClickWhenDblClick": false,
+        "outputField": "payload",
+        "editorUrl": "//drawsvg.org/drawsvg.html",
+        "directory": "",
+        "panning": "disabled",
+        "zooming": "disabled",
+        "panOnlyWhenZoomed": false,
+        "doubleClickZoomEnabled": false,
+        "mouseWheelZoomEnabled": false,
+        "dblClickZoomPercentage": 150,
+        "cssString": "div.ui-svg svg{\n    color: var(--nr-dashboard-widgetColor);\n    fill: currentColor !important;\n}\ndiv.ui-svg path {\n    fill: inherit;\n}",
+        "name": "",
+        "x": 300,
+        "y": 140,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3082a134954f2f21",
+        "type": "ui_group",
+        "name": "Default",
+        "tab": "68171aa6532cf8e0",
+        "order": 1,
+        "disp": false,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "68171aa6532cf8e0",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    }
+]
